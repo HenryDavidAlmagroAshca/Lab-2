@@ -4,17 +4,17 @@ Integrantes: Almagro Henry, Barrigas Gabriela
 
 1. OBJETIVOS
 
-Objetivo General
+Objetivo General.
 
-    Comprobar experimentalmente el analisis de Mallas
+    Comprobar experimentalmente el Análisis de Mallas
  
-Objetivos especificos
+Objetivos Específicos.
 
-    Utilizacion de simuladores para la creacion del circuito
-    Rereacrear de un circuito fisico
-    Usar multimetro para medir corriente de cada malla
+    Emplear simuladores para la creación del circuito.
+    Rereacrear un circuito digital de un circuito físico.
+    Utilizar un multímetro para medir la corriente de cada malla.
 
-2. MARCO TEÓRICO 
+2. MARCO TEÓRICO .
 
 ![image](https://user-images.githubusercontent.com/116781677/202712881-6e8a02f9-2898-4a79-9df1-6155c2893833.png)
 ![image](https://user-images.githubusercontent.com/116781677/202712905-2501881e-63e5-4a1a-bbce-3a77c8d86b85.png)
@@ -29,7 +29,7 @@ Objetivos especificos
 
     PROCEDIMIENTO
     
-Implemente el circuito que se presenta
+Se implementó el circuito que se presenta
 
 ![image](https://user-images.githubusercontent.com/116781677/202705479-9fcdea57-0ef3-4f28-9c97-0a16906ef888.png)
 
@@ -53,11 +53,11 @@ https://youtu.be/y8H25Ha8fn8
 
 6. CONCLUSIONES
 
--La creacion de un circuito fisico es de las formas mas eficases de entender la compisicion y funcionamiento de un circuito electrico.
+-La creación de un circuito físico es una de las formas más eficaces para entender la composición y funcionamiento de un circuito eléctrico.
 
--Para poder armar el circuito electrico propeuesto por el enunciado de manera fisica, se debe tener en cuenta la parte teorica fundamental, esto debido a que si realizamos malas conecciones el circuito no funcionara o resaltara valores diferentes a los que esperamos
+-Para armar el circuito eléctrico fisico propuesto por el enunciado, se debe tener en cuenta la parte teórica fundamental, esto debido a que si realizamos malas conexiones el circuito no funcionará y/o resaltará valores diferentes a los que se esperan.
 
--Es muy importante saber para que sirve cada componente para no dañarlo, quemarlos, romperlo etc.
+-Es muy importante saber para que sirve cada componente para que no se dañe, se queme o se rompa.
 
 7. BIBLIOGRAFÍA
 
