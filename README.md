@@ -33,11 +33,11 @@ Se implementó el circuito que se presenta
 
 ![image](https://user-images.githubusercontent.com/116781677/202705479-9fcdea57-0ef3-4f28-9c97-0a16906ef888.png)
 
-Simule en el software Thinkercad, el circuito de la figura, obteniendo losvalores de las corrientes de malla. Anote los resultados
+Se simuló en el software Thinkercad, el circuito de la figura, obteniendo losvalores de las corrientes de malla. Anote los resultados
 
 ![image](https://user-images.githubusercontent.com/116781677/202706645-24244935-463e-4ecb-be09-a1ec72403bb6.png)
 
-Mida cada una de las corrientes de malla y anote los resultados en la tabla
+Se midió cada una de las corrientes de malla y anote los resultados en la tabla
 
 ![image](https://user-images.githubusercontent.com/116781677/202713573-42d3dfd4-6615-4859-8e9c-46477c3936e7.png)
 
