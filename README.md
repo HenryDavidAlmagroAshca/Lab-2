@@ -1,6 +1,6 @@
 # InformeLaboratorio
 
-Integrantes: Almagro Henry
+Integrantes: Almagro Henry, Barrigas Gabriela
 
 1. OBJETIVOS
 
