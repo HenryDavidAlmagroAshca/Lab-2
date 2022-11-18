@@ -38,7 +38,7 @@ Simule en el software Thinkercad, el circuito de la figura, obteniendo losvalore
 
 Mida cada una de las corrientes de malla y anote los resultados en la tabla
 
-![image](https://user-images.githubusercontent.com/116781677/202705674-e63778b3-ee1a-47de-85f0-7de64341f483.png)
+![image](https://user-images.githubusercontent.com/116781677/202713573-42d3dfd4-6615-4859-8e9c-46477c3936e7.png)
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
@@ -64,5 +64,5 @@ https://youtu.be/y8H25Ha8fn8
 
 -Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.). México: Pearson Educación. Retrieved Noviembre 2022
 
-Electrónica, E. (s.f.). ELECTRÓNICA. Recuperado el Noviembre de 2022, de Guía de estudio 7: Mallas y Nodos: http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a07-Mallas-y-Nodos.pdf
+-Electrónica, E. (s.f.). ELECTRÓNICA. Recuperado el Noviembre de 2022, de Guía de estudio 7: Mallas y Nodos: http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a07-Mallas-y-Nodos.pdf
 
