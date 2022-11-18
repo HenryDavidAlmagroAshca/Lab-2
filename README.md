@@ -1,1 +1,35 @@
-# Lab-2
+# InformeLaboratorio
+
+
+1. OBJETIVOS
+
+
+
+2. MARCO TEÓRICO 
+
+
+3. EXPLICACIÓN DEL PROCEDIMIENTO
+
+
+    MATERIAL Y EQUIPO REQUERIDO
+
+![image](https://user-images.githubusercontent.com/116781677/202609539-ee96e639-037d-4e88-a232-552b8e8767d6.png)
+
+    PROCEDIMIENTO
+
+4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+
+
+5. VIDEO
+
+
+
+
+6. CONCLUSIONES
+
+
+
+
+7. BIBLIOGRAFÍA
+
